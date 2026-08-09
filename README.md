@@ -86,4 +86,4 @@ Embedded (as base64, so the app and its `.exe` build stay one self-contained fil
 
 ## License
 
-Not yet set — see the note at the bottom of this file / ask the repo owner. Until a license is added, default copyright applies (no one else may copy, modify, or redistribute the code).
+Not yet set — see the note at the bottom of this file / ask the repo owner. Until a license is added, default copyright applies (no one else may copy, modify, or redistribute the code)
