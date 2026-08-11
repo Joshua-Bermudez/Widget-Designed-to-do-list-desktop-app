@@ -1,5 +1,5 @@
 """
-ZetDoList launcher.
+File is intended to run or launch zetdolist
 
 The actual implementation lives in the zetdolist/ package next to this
 file - see zetdolist/__init__.py for a map of what's in each module.
